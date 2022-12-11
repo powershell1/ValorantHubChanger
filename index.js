@@ -131,4 +131,4 @@ if (fs.existsSync(installedDisk)) {
     });
 };
 
-setInterval(() => {}, 10000);
+setInterval(() => {}, 100000);
